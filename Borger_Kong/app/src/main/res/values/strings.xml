@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Borger Kong</string>
+
+    <string name="view_order">View Order</string>
+    <string name="empty_list">Remove All</string>
+    <string name="calories">Calories</string>
+
+    <string name="item_image">Item Image</string>
+    <string name="item_name">Item Name</string>
+    <string name="short_description">Short Description</string>
+    <string name="item_price">Item Price</string>
+    <string name="default_quantity">1</string>
+    <string name="increase_quantity">Increase Quantity</string>
+    <string name="decrease_quantity">Decrease Quantity</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="ingredient">Ingredients</string>
+    <string name="description">Description</string>
+    <string name="allergen">Allergens</string>
+    <string name="nutrition_information">Nutrition Information:</string>
+    <string name="nutritionList">Calories (Kcal):\n
+                        Fat(g):\n
+                        Saturated Fat (g):\n
+                        Trans Fat (g):\n
+                        Cholesterol (mg):\n
+                        Sodium (mg):\n
+                        Carbohydrates (g):\n
+                        Fiber (g):\n
+                        Sugar (g):\n
+                        Protein (g):</string>
+
+    <string name="no_order">Order List is empty.\n Add some food into order ;)</string>
+</resources>
